@@ -2,7 +2,7 @@ class Jig < Formula
   desc "Jq-compatible JSON processor with humane errors"
   homepage "https://github.com/emmett-lathrop-brown/jig"
   url "https://github.com/emmett-lathrop-brown/jig/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "d2bf2508a657dd398712b9308d2ed46a37dce2fb64360217a3ad13bb0a35e671"
+  sha256 "9e945f0962dcb04aad695a2d3643b3fbbf7a283aef3ff73c1e5bd2f32e01bbc2"
   license "MIT"
   head "https://github.com/emmett-lathrop-brown/jig.git", branch: "main"
 
